@@ -1,1 +1,4 @@
 # Twitter-Sentiment-Analysis-on-Amazon-Alexa-using-Machine-Learning-Algorithms
+This project aims to provide valuable insights into public sentiment towards Amazon Alexa by leveraging supervised machine learning techniques, specifically focusing on sentiment analysis using a variety of algorithms and ultimately selecting the most accurate model for sentiment classification.
+
+Gather tweets mentioning Amazon Alexa from the Twitter API. Remove irrelevant information and noisy data from the collected tweets. Prepare the cleaned data for analysis by tokenizing and stemming. Use a textblob dictionary to classify tweets as having positive or negative sentiment. Apply TF-IDF vectorization to convert text data into numerical features. Employ various supervised machine learning algorithms, including Nave Bayes, Support Vector Machine, and Logistic Regression, to classify sentiment. Determine that the support vector machine achieves the highest accuracy among the models.
